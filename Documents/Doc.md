@@ -62,6 +62,7 @@ GUI <--> MAIN <--> SEN (Sensors)
 - Errors are processed and handled appropriately during initialization steps.
 
 ---
+![Flowchart](./Flowcharts/VoltageRegulatorInit.drawio.png)
 
 ## **3.3 Voltage Selection Init**
 
